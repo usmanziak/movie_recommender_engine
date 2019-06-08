@@ -9,6 +9,8 @@ A few decades ago, you would probably rely on your friends, family or experts fo
 
 Recommendation systems with strong algorithms are at the core of today’s most successful online companies such as Amazon, Google, Netflix and Spotify. By endlessly recommending new products that suit their customers’ tastes, these companies provide a personalized, attentive experience across their brand platform, effectively securing customer loyalty.
 
+Check out a YouTube video by [NBC News](https://www.youtube.com/watch?v=nq2QtatuF7U).
+
 ## How do they work?
 
 Recommender systems can be broken down into two main categories:
