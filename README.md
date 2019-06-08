@@ -1,6 +1,6 @@
 # Movie Recommender Engine
 
-This Item-Based Movie recommender engine is built using Python's [Scikitlearn library] (https://scikit-learn.org/stable/) and is based on the IMDB 5000 movie dataset.
+This Item-Based Movie recommender engine is built using Python's [Scikitlearn library](https://scikit-learn.org/stable/) and is based on the IMDB 5000 movie dataset.
 The recommender engine evaluates using CountVectorize and Cosine similarity scores.
 
 ## What are recommendation systems?
